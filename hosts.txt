@@ -1,5 +1,4 @@
-75.126.135.131 api.themoviedb.org
-65.8.161.111 api.themoviedb.org
-3.168.178.49 api.themoviedb.org
-
-
+13.226.225.52 api.themoviedb.org
+13.226.225.4 api.themoviedb.org
+13.226.225.44 api.themoviedb.org
+13.226.225.73 api.themoviedb.org
